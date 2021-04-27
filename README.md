@@ -23,7 +23,7 @@ Docker Image
 - Visualize - VGG19, Layer 5, Top 9, Pixel : visualize VGG19 layer 5 using deconvolution and unpooling of top 9 pixel activations
 - Visualize - VGG19, Layers, Top 1, Channel : visualize VGG19 layers using deconvolution and unpooling of top 1 channel activations
 - Details
-  * Follow the official code train details : batch size 128, lr 0.01, momentum 0.9
+  * Follow the paper train details : batch size 128, lr 0.01, momentum 0.9
   * No learning rate scheduler for convenience
   * Use kaiming normalization for initializing weight parameters of convolution layers
   * Use CIFAR 10 statistics for image pre-processing
