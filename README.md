@@ -7,6 +7,7 @@
 Docker Image
 - pytorch/pytorch:1.8.1-cuda11.1-cudnn8-devel
 ```
+- Using Single GPU
 
 
 ## 1. Implementation Details
